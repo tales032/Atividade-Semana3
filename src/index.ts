@@ -101,7 +101,7 @@ class Gerenciador {
 
                         console.log(`Peso total: ${PesoTotal}`);
                         console.log(`Valor total: ${Valortotal}`);
-                        console.log(`Peso total: ${PesoTotal}`);
+                        console.log(`Media total: ${MediaValores}`);
                 
                 }
                 
